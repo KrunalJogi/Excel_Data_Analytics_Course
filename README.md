@@ -22,7 +22,7 @@ Data Nerds! This repo contains all the Excel files needed to follow along my fre
 - Menu
 - Keyboard Shortcuts
 ### [Chapter 2: Formulas & Functions](/2_Formulas_Functions/)
-- Formulas
+- Formulae
 - Functions
 - Logical Functions
 - Text Functions
